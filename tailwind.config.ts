@@ -13,6 +13,7 @@ const config: Config = {
         brand02: "#E8E7FE",
         brand03: "#F6F5FF",
         gray01: "#4B4B4E",
+        "brand-black": "#100F0F",
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

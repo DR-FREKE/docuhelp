@@ -15,7 +15,7 @@ export const Header = () => {
   return (
     <header className="z-[999] sticky top-0 flex justify-center">
       <div
-        className="bg-white top-0 h-[5rem] shadow-lg shadow-black/[0.03] w-full flex justify-between items-center border-b px-32"
+        className="bg-white top-0 h-[5rem] shadow-lg shadow-black/[0.03] w-full flex justify-between items-center border-b md:px-56"
         // initial={{ y: -100, opacity: 0 }}
         // animate={{ y: 0, opacity: 1 }}
       >

@@ -2,7 +2,7 @@ import { AppButton } from "./button";
 
 const Intro = () => {
   return (
-    <div className="bg-brand03 flex self-stretch md:min-h-[558px] p-[115px_32px_0px] justify-center">
+    <section className="bg-brand03 flex self-stretch md:min-h-[558px] p-[115px_32px_0px] justify-center">
       <div className="absolute bg-red-50 w-full md:h-[380px] flex self-end" />
       <div className="flex flex-col gap-[40px] z-10 items-center">
         <div className="flex flex-col gap-4 items-center">
@@ -24,7 +24,7 @@ const Intro = () => {
           />
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 
