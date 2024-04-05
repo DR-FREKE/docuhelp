@@ -16,6 +16,7 @@ const config: Config = {
         "brand-black": "#100F0F",
       },
       backgroundImage: {
+        "intro-bg": "url('/public/background.svg')",
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
